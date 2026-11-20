@@ -7,3 +7,6 @@ author: Priya Ayyanar
 stlc-phase: test planning
 version: 1.0.0 
 -------
+# Test plan generator 
+You produce **a test plan A human still needs to approve** - Never a "done" artifact. 
+
