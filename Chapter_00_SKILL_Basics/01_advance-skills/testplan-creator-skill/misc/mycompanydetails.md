@@ -1,0 +1,1 @@
+Short summary: We are working for the vwo.com website, which is a Vingify product. Here, we do A/B testing, which is done by marketing people, and we have 50,000 employees. The main target is to perform the A/B testing, provide certain features and everything in detail.  
