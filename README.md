@@ -22,6 +22,22 @@ The [Chapter_00_SKILL_Basics](./Chapter_00_SKILL_Basics) folder demonstrates bas
   - [`misc/`](./Chapter_00_SKILL_Basics/01_advance-skills/testplan-creator-skill/misc) — company details and logo used in the output
   - [`output/`](./Chapter_00_SKILL_Basics/01_advance-skills/testplan-creator-skill/output) — sample generated deliverable (`VWO-7` test plan PDF)
 
+## Chapter 01: LLM Basics
+
+The [Chapter_01_LLM_Basics](./Chapter_01_LLM_Basics) folder covers how large language models work, in plain language.
+
+- [LLM Fundamentals from Scratch](./Chapter_01_LLM_Basics/LLM_Fundamentals.html) — a self-contained HTML guide with 13 short lessons, hand-drawn diagrams, 9 interactive labs, quick checks, and a 97-term AI glossary.
+
+## Chapter 02: Prompt Engineering
+
+The [Chapter_02_Prompt_Engineering](./Chapter_02_Prompt_Engineering) folder covers prompt-engineering techniques for testing.
+
+- [Anti-Hallucination Rules](./Chapter_02_Prompt_Engineering/anti-hallucination.rules.md) — strict verification rules for a QA assistant (no invented features, every assertion traceable, deterministic output).
+- [RICE_POT](./Chapter_02_Prompt_Engineering/RICE_POT) — the Role, Instructions, Context, Example, Parameters, Output, Tone prompt framework:
+  - [Real prompt example](./Chapter_02_Prompt_Engineering/RICE_POT/RealPrompt_RICE_POT.md) — RICE_POT applied to a Salesforce login-automation brief.
+  - [Template](./Chapter_02_Prompt_Engineering/RICE_POT/Template_RICE_POT/Template.RICEPOT.md) — the reusable RICE_POT template.
+  - [Selenium framework](./Chapter_02_Prompt_Engineering/RICE_POT/Selenium_Framework) — a Maven + TestNG + PageFactory + Allure project automating the Salesforce login page (valid and invalid cases).
+
 ## Resources
 
 - [Chapter_00_SKILL_Basics/resources](./Chapter_00_SKILL_Basics/resources) — sample Jira ticket export (`VWO-49.doc`)
