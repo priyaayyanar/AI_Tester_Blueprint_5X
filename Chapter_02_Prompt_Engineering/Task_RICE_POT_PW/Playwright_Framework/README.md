@@ -41,6 +41,7 @@ Playwright_Framework/
 ├── .env.example                  # Template (real .env lives one level up)
 ├── .gitignore                    # Excludes .env + all build artifacts
 ├── docs/
+│   ├── OVERVIEW.md               # Framework reference: files, scenarios, talking points
 │   └── VERIFICATION.md           # Live-verification / anti-hallucination log
 ├── src/
 │   ├── config/
