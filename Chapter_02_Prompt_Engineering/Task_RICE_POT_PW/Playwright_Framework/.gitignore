@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment variables / secrets - never commit credentials
+.env
+.env.*
+!.env.example
+
+# Playwright build & run artifacts
+dist/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Allure reporting artifacts
+allure-results/
+allure-report/
+
+# Logs
+*.log
+logs/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
