@@ -37,6 +37,10 @@ The [Chapter_02_Prompt_Engineering](./Chapter_02_Prompt_Engineering) folder cove
   - [Real prompt example](./Chapter_02_Prompt_Engineering/RICE_POT/RealPrompt_RICE_POT.md) — RICE_POT applied to a Salesforce login-automation brief.
   - [Template](./Chapter_02_Prompt_Engineering/RICE_POT/Template_RICE_POT/Template.RICEPOT.md) — the reusable RICE_POT template.
   - [Selenium framework](./Chapter_02_Prompt_Engineering/RICE_POT/Selenium_Framework) — a Maven + TestNG + PageFactory + Allure project automating the Salesforce login page (valid and invalid cases).
+- [Task_RICE_POT_PW](./Chapter_02_Prompt_Engineering/Task_RICE_POT_PW) — the RICE_POT framework applied to a VWO (Wingify) login-automation brief:
+  - [RICE_POT prompt](./Chapter_02_Prompt_Engineering/Task_RICE_POT_PW/PW_RISE_POT_Prompt.md) — the prompt used to generate the framework.
+  - [Playwright framework](./Chapter_02_Prompt_Engineering/Task_RICE_POT_PW/Playwright_Framework) — enterprise-grade Playwright + TypeScript (Page Object Model) project automating the VWO login page with valid and invalid scenarios, Allure reporting, and locators verified against the live application.
+  - [VWO login PRD](./Chapter_02_Prompt_Engineering/Task_RICE_POT_PW/resources/Product%20Requirements%20Document_%20VWO%20Login%20Dashboard.pdf) — the source requirements document.
 
 ## Resources
 
